@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustMoveTheDamnThing", "JustMoveTheDamnThing\JustMoveTheDamnThing.csproj", "{572DF4DB-7227-4951-A369-CC7198CD683B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReallyJustMoveIt", "ReallyJustMoveIt\ReallyJustMoveIt.csproj", "{2092215D-3E90-4350-89E1-A6B22D7173C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572DF4DB-7227-4951-A369-CC7198CD683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572DF4DB-7227-4951-A369-CC7198CD683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572DF4DB-7227-4951-A369-CC7198CD683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572DF4DB-7227-4951-A369-CC7198CD683B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2092215D-3E90-4350-89E1-A6B22D7173C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2092215D-3E90-4350-89E1-A6B22D7173C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2092215D-3E90-4350-89E1-A6B22D7173C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2092215D-3E90-4350-89E1-A6B22D7173C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
